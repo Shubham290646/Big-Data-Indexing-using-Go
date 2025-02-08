@@ -1,5 +1,5 @@
 # 🚀 Big Data Indexing using Go  
-![Go API Banner](https://media.giphy.com/media/5xtDarqlsEW3UQkubZy/giphy.gif)
+
 
 ## 📌 Project Overview  
 This project implements a **REST API** using **Go (Golang)** and **Redis Stack** to efficiently **handle, store, and manage structured JSON data**. The API provides **CRUD operations** with validation, versioning, and conditional reads, making it highly efficient for **big data indexing**.

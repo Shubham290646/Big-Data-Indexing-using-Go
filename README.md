@@ -1,4 +1,4 @@
-# 🚀 Big Data Indexing using Go  
+# 🚀 Big Data Indexing using Go and Redis
 
 
 ## 📌 Project Overview  

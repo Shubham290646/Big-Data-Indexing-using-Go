@@ -1,6 +1,5 @@
-
 # 🚀 Big Data Indexing using Go  
-![Go API Banner](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
+![Go API Banner](https://media.giphy.com/media/5xtDarqlsEW3UQkubZy/giphy.gif)
 
 ## 📌 Project Overview  
 This project implements a **REST API** using **Go (Golang)** and **Redis Stack** to efficiently **handle, store, and manage structured JSON data**. The API provides **CRUD operations** with validation, versioning, and conditional reads, making it highly efficient for **big data indexing**.
@@ -176,8 +175,8 @@ This project is licensed under the MIT License. See the **`LICENSE`** file for m
 ---
 
 ## ❤️ Stay Connected  
-📧 **Email:** shubham@example.com  
-📢 **LinkedIn:** [Shubham M](https://linkedin.com/in/shubham-mangaonkar)  
+📧 **Email:** mangaonkarshubham4@gmail.com  
+📢 **LinkedIn:** [Shubham M]([https://linkedin.com/in/shubham-mangaonkar](https://www.linkedin.com/in/shubham2906/))  
 
 🌟 **If you like this project, give it a ⭐ on GitHub!**  
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shubham290646/Big-Data-Indexing-using-Go?style=social)  
@@ -185,27 +184,3 @@ This project is licensed under the MIT License. See the **`LICENSE`** file for m
 ---
 **Made with ❤️ by Shubham** 🚀🔥
 ```
-
----
-
-### **🎯 Why This README is Awesome?**
-✅ **Visually Appealing**: Emojis, Shields, GIFs 🎉  
-✅ **Clear Sections**: Easy to navigate 📌  
-✅ **API Examples**: Copy-paste ready commands ⚡  
-✅ **Docker & Local Setup**: Easy to run 🚀  
-✅ **Next Steps & Contribution Guide**: Encourages development 🎯  
-
----
-## **📌 How to Add This README to GitHub**
-1. Create a new `README.md` file:
-   ```bash
-   touch README.md
-   ```
-2. Copy and paste the above content into `README.md`.
-3. Add & commit:
-   ```bash
-   git add README.md
-   git commit -m "Added project README"
-   git push origin main
-   ```
-
